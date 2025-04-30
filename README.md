@@ -1,1 +1,1 @@
-# Elevator_task_5
+finding patterns, trends from the data
